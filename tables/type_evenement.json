@@ -1,0 +1,9 @@
+[
+  {"id":1,"nom":"CP ÉLITE","image":null,"traduction_en":"Elite Short-Track","traduction_fr":"Courte-Piste Élite","niveau_evenement":4,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":2,"nom":"CP INTERRÉGIONAL","image":null,"traduction_en":"Regional Short-Track","traduction_fr":"Courte-Piste Inter","niveau_evenement":3,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":3,"nom":"CP PROVINCIAL","image":null,"traduction_en":"Provincial short-track","traduction_fr":"Courte-Piste provincial","niveau_evenement":4,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":4,"nom":"CP NATIONAL","image":null,"traduction_en":"National Short-Track","traduction_fr":"Courte-Piste National","niveau_evenement":5,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":5,"nom":"ROLLER PROVINCIAL","image":null,"traduction_en":"Roller provincial Level","traduction_fr":"Roller niveau provincial","niveau_evenement":4,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":6,"nom":"LP PROVINCIAL","image":null,"traduction_en":"Long-Track provincial Level","traduction_fr":"Longue-Piste provincial","niveau_evenement":4,"fede_nationale_id":1,"est_chronometrable":true},
+  {"id":7,"nom":"LP NATIONAL","image":null,"traduction_en":"Long-Track National","traduction_fr":"Longue-piste niveau national","niveau_evenement":5,"fede_nationale_id":1,"est_chronometrable":true}
+]

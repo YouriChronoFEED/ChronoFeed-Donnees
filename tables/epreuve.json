@@ -1,0 +1,11 @@
+[
+  {"id":9,"nom":"500m","sport":"SPEEDSKATING","distance":500,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":100,"longueur_piste":400,"nombre_de_tour":1.25,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":10,"nom":"1000m","sport":"SPEEDSKATING","distance":1000,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":200,"longueur_piste":400,"nombre_de_tour":2.5,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":11,"nom":"1500m","sport":"SPEEDSKATING","distance":1500,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":300,"longueur_piste":400,"nombre_de_tour":3.75,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":12,"nom":"3000m","sport":"SPEEDSKATING","distance":3000,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":200,"longueur_piste":400,"nombre_de_tour":7.5,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":13,"nom":"5000m","sport":"SPEEDSKATING","distance":5000,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":200,"longueur_piste":400,"nombre_de_tour":12.5,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":14,"nom":"10000m","sport":"SPEEDSKATING","distance":10000,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":0,"longueur_piste":400,"nombre_de_tour":25,"nbr_coureur_max":2,"nbr_coureur_min":1},
+  {"id":15,"nom":"3200m POURSUITE","sport":"SPEEDSKATING","distance":3200,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Team","ligne_depart":0,"longueur_piste":400,"nombre_de_tour":8,"nbr_coureur_max":3,"nbr_coureur_min":3},
+  {"id":16,"nom":"2400m POURSUITE","sport":"SPEEDSKATING","distance":2400,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Equipe","ligne_depart":0,"longueur_piste":400,"nombre_de_tour":6,"nbr_coureur_max":3,"nbr_coureur_min":3},
+  {"id":17,"nom":"6400m MASS-START","sport":"SPEEDSKATING","distance":6400,"fin_course":"FinNbrTour","specialite":"LONG-TRACK","mode_course":"Individual","ligne_depart":0,"longueur_piste":400,"nombre_de_tour":16,"nbr_coureur_max":24,"nbr_coureur_min":1}
+]

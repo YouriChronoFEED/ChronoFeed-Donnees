@@ -1,0 +1,12 @@
+[
+  {"id":1,"nom":"PATINAGE DE VITESSE QUÉBEC","type":4,"detail":null,"est_actif":true},
+  {"id":2,"nom":"CENTRE NATIONAL COURTE-PISTE","type":5,"detail":null,"est_actif":true},
+  {"id":3,"nom":"CENTRE QUÉBECOIS ENTRAINEMENT LAVAL","type":3,"detail":null,"est_actif":true},
+  {"id":4,"nom":"CLUB DE PATINAGE DE VITESSE DE SHERBROOKE","type":2,"detail":null,"est_actif":true},
+  {"id":5,"nom":"CHRONOFEED","type":6,"detail":null,"est_actif":true},
+  {"id":6,"nom":"ASSOCIATION RÉGIONALE DE PATINAGE DE VITESSE DE L'EST DU QUÉBEC","type":3,"detail":null,"est_actif":true},
+  {"id":7,"nom":"CLUB DE PATINAGE DE VITESSE DE SAINTE-FOY","type":2,"detail":null,"est_actif":true},
+  {"id":8,"nom":"CLUB DE PATINAGE DE VITESSE DE LONGUEUIL","type":2,"detail":null,"est_actif":true},
+  {"id":9,"nom":"CENTRE DE GLACE INTACT ASSURANCE (JOGGING)","type":6,"detail":null,"est_actif":true},
+  {"id":10,"nom":"CPVSH","type":2,"detail":null,"est_actif":true}
+]

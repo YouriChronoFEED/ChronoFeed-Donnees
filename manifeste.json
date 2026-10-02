@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "manifeste": {
+    "version": 1,
+    "date": "2026-10-02T07:41:05.9535718-04:00",
+    "note": "Initiale",
+    "tables": [
+      {
+        "nom": "pays",
+        "fichier": "tables/pays.json",
+        "empreinte": "1a57bbfcbcd9d11ac8356441bde8ab750f5b2361b873b1b86baf7dbf6d79e533",
+        "rangees": 251
+      },
+      {
+        "nom": "prov_etat",
+        "fichier": "tables/prov_etat.json",
+        "empreinte": "45dd3f196d81e5c7c9025e20f911c246e316a7ae1de842dfb54bd7b99f3f21fd",
+        "rangees": 51
+      },
+      {
+        "nom": "ville",
+        "fichier": "tables/ville.json",
+        "empreinte": "63a01771fa9366960835a87830f9f175f77513718269529a7aead98c37ba788c",
+        "rangees": 1303
+      },
+      {
+        "nom": "sport",
+        "fichier": "tables/sport.json",
+        "empreinte": "47d56528c5bd743c44743fec1b961cbac1384d31af0789237afe15c8d95ab73b",
+        "rangees": 4
+      },
+      {
+        "nom": "specialite",
+        "fichier": "tables/specialite.json",
+        "empreinte": "7dec86046cc36ac8a05ad86b85ae4bbf3ff613b1c9cf503e7e3abbf9d2a41173",
+        "rangees": 12
+      },
+      {
+        "nom": "type_infrastructure",
+        "fichier": "tables/type_infrastructure.json",
+        "empreinte": "9dfbaa86df83a6d02edff064b6790153bd0dad2c634cefdf5f267066df63426a",
+        "rangees": 6
+      },
+      {
+        "nom": "type_infrastructure_specialite",
+        "fichier": "tables/type_infrastructure_specialite.json",
+        "empreinte": "3069378985b4b8e5012add065e50f85596950fa47b69854acb108b371ed4bd0a",
+        "rangees": 2
+      },
+      {
+        "nom": "site",
+        "fichier": "tables/site.json",
+        "empreinte": "3b47f96696518f8b3cb3e5c4061a09657506c7a76b125d13d1a05e0ad007c42b",
+        "rangees": 322
+      },
+      {
+        "nom": "infrastructure",
+        "fichier": "tables/infrastructure.json",
+        "empreinte": "04a49a2475c71c905a5d9ac1353b6a4be5de80741ddd7c56ee483eceb704e0bf",
+        "rangees": 326
+      },
+      {
+        "nom": "fede_nationale",
+        "fichier": "tables/fede_nationale.json",
+        "empreinte": "be2b2ce5a6f79c58fe665ef4018ad9c246f5aece462dd1cdec21ccc65682478b",
+        "rangees": 1
+      },
+      {
+        "nom": "fede_reg",
+        "fichier": "tables/fede_reg.json",
+        "empreinte": "fca5ed24d588355838678dbedec2bd38fb86eae6cc9651a89b70192d65546684",
+        "rangees": 13
+      },
+      {
+        "nom": "club",
+        "fichier": "tables/club.json",
+        "empreinte": "f4bfa7e25389aa7c3d317e26f7a2b36aa5e8b80b3da279cdd5024ebdc73a88ed",
+        "rangees": 45
+      },
+      {
+        "nom": "epreuve",
+        "fichier": "tables/epreuve.json",
+        "empreinte": "fa7378d1acfe50a4a8ca4cd89979d83426050532fe7be71299b3afab7251c4e9",
+        "rangees": 9
+      },
+      {
+        "nom": "type_evenement",
+        "fichier": "tables/type_evenement.json",
+        "empreinte": "89c09b3dfcaa005eda8b303175aa5655beca679f324b3e33b4629fecb0a17550",
+        "rangees": 7
+      },
+      {
+        "nom": "type_annotation_course",
+        "fichier": "tables/type_annotation_course.json",
+        "empreinte": "49e274c84d4d2b65502f725ac0e00e8b5f4a6a1da1d3dde41221257726115f24",
+        "rangees": 13
+      },
+      {
+        "nom": "organisme",
+        "fichier": "tables/organisme.json",
+        "empreinte": "4ea254e57a362b397f75689874b9f89c26095ba8167694c2a32e7a2b18fece10",
+        "rangees": 10
+      }
+    ]
+  },
+  "donnees": "ew0KICAidmVyc2lvbiI6IDEsDQogICJkYXRlIjogIjIwMjYtMTAtMDJUMDc6NDE6MDUuOTUzNTcxOC0wNDowMCIsDQogICJub3RlIjogIkluaXRpYWxlIiwNCiAgInRhYmxlcyI6IFsNCiAgICB7DQogICAgICAibm9tIjogInBheXMiLA0KICAgICAgImZpY2hpZXIiOiAidGFibGVzL3BheXMuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjFhNTdiYmZjYmNkOWQxMWFjODM1NjQ0MWJkZThhYjc1MGY1YjIzNjFiODczYjFiODZiYWY3ZGJmNmQ3OWU1MzMiLA0KICAgICAgInJhbmdlZXMiOiAyNTENCiAgICB9LA0KICAgIHsNCiAgICAgICJub20iOiAicHJvdl9ldGF0IiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9wcm92X2V0YXQuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjQ1ZGQzZjE5NmQ4MWU1YzdjOTAyNWUyMGY5MTFjMjQ2ZTMxNmE3YWUxZGU4NDJkZmI1NGJkN2I5OWYzZjIxZmQiLA0KICAgICAgInJhbmdlZXMiOiA1MQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJ2aWxsZSIsDQogICAgICAiZmljaGllciI6ICJ0YWJsZXMvdmlsbGUuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjYzYTAxNzcxZmE5MzY2OTYwODM1YTg3ODMwZjlmMTc1Zjc3NTEzNzE4MjY5NTI5YTdhZWFkOThjMzdiYTc4OGMiLA0KICAgICAgInJhbmdlZXMiOiAxMzAzDQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogInNwb3J0IiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9zcG9ydC5qc29uIiwNCiAgICAgICJlbXByZWludGUiOiAiNDdkNTY1MjhjNWJkNzQzYzQ0NzQzZmVjMWI5NjFjYmFjMTM4NGQzMWFmMDc4OTIzN2FmZTE1YzhkOTVhYjczYiIsDQogICAgICAicmFuZ2VlcyI6IDQNCiAgICB9LA0KICAgIHsNCiAgICAgICJub20iOiAic3BlY2lhbGl0ZSIsDQogICAgICAiZmljaGllciI6ICJ0YWJsZXMvc3BlY2lhbGl0ZS5qc29uIiwNCiAgICAgICJlbXByZWludGUiOiAiN2RlYzg2MDQ2Y2MzNmFjOGEwNWFkODZiODVhZTRiYmYzZmY2MTNiMWM5Y2Y1MDNlN2UzYWJiZjlkMmE0MTE3MyIsDQogICAgICAicmFuZ2VlcyI6IDEyDQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogInR5cGVfaW5mcmFzdHJ1Y3R1cmUiLA0KICAgICAgImZpY2hpZXIiOiAidGFibGVzL3R5cGVfaW5mcmFzdHJ1Y3R1cmUuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjlkZmJhYTg2ZGY4M2E2ZDAyZWRmZjA2NGI2NzkwMTUzYmQwZGFkMmM2MzRjZWZkZjVmMjY3MDY2ZGY2MzQyNmEiLA0KICAgICAgInJhbmdlZXMiOiA2DQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogInR5cGVfaW5mcmFzdHJ1Y3R1cmVfc3BlY2lhbGl0ZSIsDQogICAgICAiZmljaGllciI6ICJ0YWJsZXMvdHlwZV9pbmZyYXN0cnVjdHVyZV9zcGVjaWFsaXRlLmpzb24iLA0KICAgICAgImVtcHJlaW50ZSI6ICIzMDY5Mzc4OTg1YjRiOGU1MDEyYWRkMDY1ZTUwZjg1NTk2OTUwZmE0N2I2OTg1NGFjYjEwOGIzNzFlZDRiZDBhIiwNCiAgICAgICJyYW5nZWVzIjogMg0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJzaXRlIiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9zaXRlLmpzb24iLA0KICAgICAgImVtcHJlaW50ZSI6ICIzYjQ3Zjk2Njk2NTE4ZjhiM2NiM2U1YzQwNjFhMDk2NTc1MDZjN2E3NmIxMjVkMTNkMWEwNWUwYWQwMDdjNDJiIiwNCiAgICAgICJyYW5nZWVzIjogMzIyDQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogImluZnJhc3RydWN0dXJlIiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9pbmZyYXN0cnVjdHVyZS5qc29uIiwNCiAgICAgICJlbXByZWludGUiOiAiMDRhNDlhMjQ3NWM3MWM5MDVhNWQ5YWMxMzUzYjZhNGJlNWRlODA3NDFkZGQ3YzU2ZWU0ODNlY2ViNzA0ZTBiZiIsDQogICAgICAicmFuZ2VlcyI6IDMyNg0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJmZWRlX25hdGlvbmFsZSIsDQogICAgICAiZmljaGllciI6ICJ0YWJsZXMvZmVkZV9uYXRpb25hbGUuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogImJlMmIyY2U1YTZmNzljNThmZTY2NWVmNDAxOGFkOWMyNDZmNWFlY2U0NjJkZDFjZGVjMjFjY2M2NTY4MjQ3OGIiLA0KICAgICAgInJhbmdlZXMiOiAxDQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogImZlZGVfcmVnIiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9mZWRlX3JlZy5qc29uIiwNCiAgICAgICJlbXByZWludGUiOiAiZmNhNWVkMjRkNTg4MzU1ODM4Njc4ZGJlZGVjMmJkMzhmYjg2ZWFlNmNjOTY1MWE4OWI3MDE5MmQ2NTU0NjY4NCIsDQogICAgICAicmFuZ2VlcyI6IDEzDQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogImNsdWIiLA0KICAgICAgImZpY2hpZXIiOiAidGFibGVzL2NsdWIuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogImY0YmZhN2UyNTM4OWFhN2MzZDMxN2UyNmY3YTJiMzZhYTVlOGI4MGIzZGEyNzljZGQ1MDI0ZWJkYzczYTg4ZWQiLA0KICAgICAgInJhbmdlZXMiOiA0NQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJlcHJldXZlIiwNCiAgICAgICJmaWNoaWVyIjogInRhYmxlcy9lcHJldXZlLmpzb24iLA0KICAgICAgImVtcHJlaW50ZSI6ICJmYTczNzhkMWFjZmU1MGE0YThjYTRjZDg5OTc5ZDgzNDI2MDUwNTMyZmU3YmU3MTI5OWIzYWZhYjcyNTFjNGU5IiwNCiAgICAgICJyYW5nZWVzIjogOQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJ0eXBlX2V2ZW5lbWVudCIsDQogICAgICAiZmljaGllciI6ICJ0YWJsZXMvdHlwZV9ldmVuZW1lbnQuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjg5YzA5YjNkZmNhYTAwNWVkYThiMzAzMTc1YWE1NjU1YmVjYTY3OWYzMjRiM2UzM2I0NjI5ZmVjYjBhMTc1NTAiLA0KICAgICAgInJhbmdlZXMiOiA3DQogICAgfSwNCiAgICB7DQogICAgICAibm9tIjogInR5cGVfYW5ub3RhdGlvbl9jb3Vyc2UiLA0KICAgICAgImZpY2hpZXIiOiAidGFibGVzL3R5cGVfYW5ub3RhdGlvbl9jb3Vyc2UuanNvbiIsDQogICAgICAiZW1wcmVpbnRlIjogIjQ5ZTI3NGM4NGQ0ZDJiNjU1MDJmNzI1YWMwZTAwZThiNWY0YTZhMWRhMWQzZGRlNDEyMjEyNTc3MjYxMTVmMjQiLA0KICAgICAgInJhbmdlZXMiOiAxMw0KICAgIH0sDQogICAgew0KICAgICAgIm5vbSI6ICJvcmdhbmlzbWUiLA0KICAgICAgImZpY2hpZXIiOiAidGFibGVzL29yZ2FuaXNtZS5qc29uIiwNCiAgICAgICJlbXByZWludGUiOiAiNGVhMjU0ZTU3YTM2MmIzOTdmNzU2ODk4NzRiOWY4OWMyNjA5NWJhODE2NzY5NGMyYTMyZTdhMmIxOGZlY2UxMCIsDQogICAgICAicmFuZ2VlcyI6IDEwDQogICAgfQ0KICBdDQp9",
+  "signature": "CrJ/Lg4QUMK04r0Jk5wG+hoRU5ixzEeKjrx3iYGL+x/j3EJu/ZnnrSWasnD6Yc/j05dkvRY9kx1dUMqeHKfVsQ=="
+}
