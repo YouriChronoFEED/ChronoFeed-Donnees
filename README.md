@@ -7,7 +7,7 @@ Ce dépôt est **écrit par ChronoFEED-Licences** (onglet « Données communes �
 à la main. Le fichier `manifeste.json` est signé ; les produits refusent tout paquet qui n'est pas signé par
 Technofeed.
 
-Version 1 — 2026-10-02 07:41
+Version 2 — 2026-10-03 07:42
 
 | Table | Rangées |
 |---|---:|
@@ -17,12 +17,14 @@ Version 1 — 2026-10-02 07:41
 | sport | 4 |
 | specialite | 12 |
 | type_infrastructure | 6 |
-| type_infrastructure_specialite | 2 |
 | site | 322 |
 | infrastructure | 326 |
 | fede_nationale | 1 |
 | fede_reg | 13 |
 | club | 45 |
+| categorie | 1 |
+| saison | 9 |
+| regle_elimination | 1 |
 | epreuve | 9 |
 | type_evenement | 7 |
 | type_annotation_course | 13 |
