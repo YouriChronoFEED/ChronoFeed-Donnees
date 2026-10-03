@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4,
+    "nom": "CPVS",
+    "nomComplet": "CLUB DE PATINAGE DE VITESSE DE SHERBROOKE",
+    "type": 2,
+    "typeLibelle": "Club",
+    "detail": "",
+    "logo": "logos/4.png"
+  },
+  {
+    "id": 1,
+    "nom": "PVQ",
+    "nomComplet": "PATINAGE DE VITESSE QUÉBEC",
+    "type": 4,
+    "typeLibelle": "Fédération provinciale ou d'État",
+    "detail": "",
+    "logo": "logos/1.png"
+  }
+]
